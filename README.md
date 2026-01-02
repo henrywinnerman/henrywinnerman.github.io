@@ -59,7 +59,3 @@ I create clear, accurate documentation that helps developers build better softwa
 
 *Available for technical writing opportunities and documentation projects.*
 ```
-
-After 1-2 minutes, visit:
-```
-https://henrywinnerman.github.io
