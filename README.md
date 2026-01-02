@@ -32,8 +32,10 @@ I create clear, accurate documentation that helps developers build better softwa
 #### Tutorials
 - [Building a Weather App with React](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/tutorials/react-weather-app-tutorial.md)
 - [Klaviyo Email Marketing on Shopify](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/tutorials/klaviyo-shopify-email-marketing.md)
-- [Freecodecamp] (https://www.freecodecamp.org/news/author/henrywinnerman/)
-- [Hashnode] (https://henrywinnerman.hashnode.dev/)
+
+- [Freecodecamp] (https://www.freecodecamp.org/news/author/henrywinnerman)
+  
+- [Hashnode] (https://henrywinnerman.hashnode.dev)
 
 ---
 
@@ -51,8 +53,8 @@ I create clear, accurate documentation that helps developers build better softwa
 
 ### Contact
 
-- **Email:** [your.email@example.com](mailto:adepegbahenry@gmail.com)
-- **LinkedIn:** [linkedin.com/in/henryadepegba](https://linkedin.com/in/henryadepegba)
+- **Email:** [adepegbahenry@gmail.com](mailto:adepegbahenry@gmail.com)
+- **LinkedIn:** [linkedin.com/in/henryadepegba](https://linkedin.com/in/adepegba-henry)
 - **GitHub:** [github.com/henrywinnerman](https://github.com/henrywinnerman)
 
 ---
