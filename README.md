@@ -54,7 +54,7 @@ I create clear, accurate documentation that helps developers build better softwa
 ### Contact
 
 - **Email:** [adepegbahenry@gmail.com](mailto:adepegbahenry@gmail.com)
-- **LinkedIn:** [linkedin.com/in/henryadepegba](https://linkedin.com/in/adepegba-henry)
+- **LinkedIn:** [linkedin.com/in/adepegba-henry](https://linkedin.com/in/adepegba-henry)
 - **GitHub:** [github.com/henrywinnerman](https://github.com/henrywinnerman)
 
 ---
