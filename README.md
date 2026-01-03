@@ -18,8 +18,8 @@ I create clear, accurate documentation that helps developers build better softwa
 ### Writing Samples
 
 #### Integration Guides
-- [Paystack + Laravel Integration](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/integration-guides/paystack-laravel-integration-guide.md)
-- [Paystack + Next.js Integration](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/integration-guides/paystack-nextjs-integration-guide.md)
+- [Paystack + Laravel Integration](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/integration-guides/paystack-laravel-integration.md)
+- [Paystack + Next.js Integration](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/integration-guides/paystack-nextjs-integration.md)
 
 #### API Documentation
 - [Flutterwave Virtual Cards API](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/api-documentation/flutterwave-virtual-cards-api.md)
@@ -37,6 +37,11 @@ I create clear, accurate documentation that helps developers build better softwa
   
 - [Hashnode] (https://henrywinnerman.hashnode.dev)
 
+#### Articles
+- [AI Automation: A Practical Guide for Businesses](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/articles/ai-automation-business-guide.md) — How AI is transforming business workflows
+- [Securing Your Web Application](https://github.com/henrywinnerman/technical-writing-portfolio/blob/main/articles/web-application-security-tutorial.md) — Cybersecurity tutorial covering SQL injection, XSS, and authentication
+
+
 ---
 
 ### Tools & Skills
@@ -48,6 +53,9 @@ I create clear, accurate documentation that helps developers build better softwa
 **API Tools:** Postman, OpenAPI/Swagger, cURL
 
 **Platforms:** GitHub, Shopify, Various Fintech APIs
+
+**Topics:** Payment Integration, E-commerce, AI/Automation, Cybersecurity
+
 
 ---
 
